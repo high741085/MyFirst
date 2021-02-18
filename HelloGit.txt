@@ -1,0 +1,3 @@
+Hello Git!
+This is the second file I will upload to Github.
+There is nothing special. Just try to get familiar with git operation.
