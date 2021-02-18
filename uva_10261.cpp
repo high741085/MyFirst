@@ -4,6 +4,8 @@
 #define MAXN 10005
 using namespace std;
 
+/*AC!!!*/
+
 int eachCarLength[MAXN], 
     sum[MAXN];
 int dp[305][MAXN];
